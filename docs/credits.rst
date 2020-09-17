@@ -85,6 +85,14 @@ The following people have contributed to the development of PHP Server Monitor:
 
   * Nexmo SMS gateway
 
+* Mateusz Małek - https://github.com/mateuszmalek
+
+  * SMSAPI gateway
+
+* Daniel Krusky - https://github.com/dkrusky
+
+  * Discord webhook support
+
 Translators
 +++++++++++
 
@@ -93,6 +101,10 @@ The following people have contributed to the translation of PHP Server Monitor:
 * Bulgarian
 
   * Plamen Vasilev - https://github.com/PVasileff
+
+* Catalan
+
+  * caos30 - https://github.com/caos30
 
 * Chinese
 
@@ -169,15 +181,23 @@ The following people have contributed to the translation of PHP Server Monitor:
 
   * Haydar Kulekci - https://github.com/hkulekci
 
+* Ukrainian
+
+  * Oleksa Vyshnivsky - https://github.com/oleksavyshnivsky
 
 Vendors
 +++++++
 
 The following libraries are being used by PHP Server Monitor:
 
-* jqPlot - http://www.jqplot.com
+* Chart.js - http://chartjs.org/
 * Twitter Bootstrap - http://getbootstrap.com
-* Bootstrap Multiselect - https://github.com/davidstutz/bootstrap-multiselect
+* jQuery - https://jquery.com
+* Font Awesome - https://fontawesome.com
+* Twig - https://twig.symfony.com
+* Bootstrap-select - https://github.com/snapappointments/bootstrap-select
 * PHP Mailer - https://github.com/PHPMailer/PHPMailer
-* php-pushover - https://github.com/kryap/php-pushover
-* Twig - http://twig.sensiolabs.org
+* PHP-Pushover - https://github.com/kryap/php-pushover
+* Symfony - https://symfony.com
+* Random_compat - https://github.com/paragonie/random_compat
+* Hammer.js - https://github.com/hammerjs/hammer.js
